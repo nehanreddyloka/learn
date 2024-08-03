@@ -1,4 +1,2 @@
 
-print("funveoi")
-
-print ("nehan")
+print("nehan")
